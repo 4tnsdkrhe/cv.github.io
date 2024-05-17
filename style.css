@@ -42,7 +42,7 @@ body{
 .content_photo{
     max-width: 629px;
     height: auto;
-    background: url("img/let\ button_menu\ =\ document.querySelector\(_.header_button_\);\ let\ float_menu\ =\ document.querySelector\(_.header_menu--float_\);\ let\ line_top\ =\ document.querySelector\(_.header_button_line--top_\);\ let\ line_under\ =\ documen.png");
+    background: url("/img/bg.png");
     background-size: cover;
 }
 
