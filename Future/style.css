@@ -1,0 +1,60 @@
+/* FUTURE PAGE */
+
+body{
+    font-family: 'Inconsolata', monospace;
+    font-size:20px;
+    color: #F0E3CA;
+    background-color: #1B1A17;
+}
+
+.header{
+    background-color: #1F1E1B;
+    height: auto;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+
+.logo{
+    font-family: 'Oswald', sans-serif;
+    font-size: 32px;
+}
+.orange_{
+    color:#FF8303;
+}
+
+.nav-link:hover, .nav-link:focus {
+    color: #FF8303;
+  }
+
+.nav-link{
+    color: #F0E3CA;
+}
+
+.skill{
+    padding: 10px;
+    background-color: #21201D;
+    border-radius: 10px;
+}
+
+.card{
+    background-color: #1F1E1B;
+    color: #F0E3CA;
+    height:500px;
+}
+
+/* -----FOOTER------- */
+.footer{
+    width:100%;
+    height: auto;
+    background-color: #1F1E1B;
+}
+
+
